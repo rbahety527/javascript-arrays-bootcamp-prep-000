@@ -17,10 +17,9 @@ var grilledCheeseIngredients =
   
 var tomatoSauceIngredients = 
 [
-  'bread',
-  'mild cheese',
-  'sharp cheese',
-  'butter',
   'tomato',
-  'garlic'
+  'garlic',
+  'olive oil',
+  'basil',
+  'oregano'
   ]
